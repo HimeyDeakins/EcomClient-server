@@ -1,0 +1,28 @@
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/bin/Debug/net9.0/Custom_program
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/bin/Debug/net9.0/Custom_program.deps.json
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/bin/Debug/net9.0/Custom_program.runtimeconfig.json
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/bin/Debug/net9.0/Custom_program.dll
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/bin/Debug/net9.0/Custom_program.pdb
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/obj/Debug/net9.0/Custom_program.GeneratedMSBuildEditorConfig.editorconfig
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/obj/Debug/net9.0/Custom_program.AssemblyInfoInputs.cache
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/obj/Debug/net9.0/Custom_program.AssemblyInfo.cs
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/obj/Debug/net9.0/Custom_program.csproj.CoreCompileInputs.cache
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/obj/Debug/net9.0/Custom_program.dll
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/obj/Debug/net9.0/refint/Custom_program.dll
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/obj/Debug/net9.0/Custom_program.pdb
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/obj/Debug/net9.0/Custom_program.genruntimeconfig.cache
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program/obj/Debug/net9.0/ref/Custom_program.dll
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/obj/Debug/net9.0/Custom_program.GeneratedMSBuildEditorConfig.editorconfig
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/obj/Debug/net9.0/Custom_program.AssemblyInfoInputs.cache
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/obj/Debug/net9.0/Custom_program.AssemblyInfo.cs
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/obj/Debug/net9.0/Custom_program.csproj.CoreCompileInputs.cache
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/obj/Debug/net9.0/Custom_program.dll
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/obj/Debug/net9.0/refint/Custom_program.dll
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/obj/Debug/net9.0/Custom_program.pdb
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/bin/Debug/net9.0/Custom_program
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/bin/Debug/net9.0/Custom_program.deps.json
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/bin/Debug/net9.0/Custom_program.runtimeconfig.json
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/bin/Debug/net9.0/Custom_program.dll
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/bin/Debug/net9.0/Custom_program.pdb
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/obj/Debug/net9.0/Custom_program.genruntimeconfig.cache
+/home/kapatelhimeyy/Deakin /Object Oriented Programming/Custom program server/obj/Debug/net9.0/ref/Custom_program.dll
